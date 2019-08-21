@@ -1,0 +1,24 @@
+{
+  "name": "First_App_Electron",
+  "version": "1.0.0",
+  "description": "First cross-platform desktop application",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorcs16/First_App_Electron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorcs16/First_App_Electron/issues"
+  },
+  "homepage": "https://github.com/igorcs16/First_App_Electron#readme",
+  "dependencies": {
+    "electron": "^6.0.3",
+    "image-size": "^0.7.4"
+  }
+}
